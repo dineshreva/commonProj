@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println("display the content on the eclipse console");
+        System.out.println("display value");
     }
 }
