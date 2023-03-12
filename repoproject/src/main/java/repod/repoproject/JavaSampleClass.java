@@ -6,6 +6,8 @@ public class JavaSampleClass {
 		System.out.println("Hello");
 		MobileNewClass mb = new MobileNewClass();
 		System.out.println(mb.add(10, 20));
+		int c = mb.add(50,40);
+		System.out.println(c);
 		
 		
 	}
